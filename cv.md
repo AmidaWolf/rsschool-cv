@@ -33,20 +33,20 @@ I think this is the main thing in my work.
 
 ## Skills:
 ### Hard skills:
-- [x]  HTML5/CSS3  
-- [x]  JavaScript  
-- [x]  Responsive design/mobile first  
-- [x]  Progressive enhancement/Graceful degradation  
-- [x]  BEM  
-- [x]  Git with Github/Gitlab, Github Flow and Git Flow strategies  
-- [x]  LESS (basic)  
-- [x]  React with hooks  
-- [x]  Redux  
+- HTML5/CSS3  
+- JavaScript  
+- Responsive design/mobile first  
+- Progressive enhancement/Graceful degradation  
+- BEM  
+- Git with Github/Gitlab, Github Flow and Git Flow strategies  
+- LESS (basic)  
+- React with hooks  
+- Redux  
 ### Soft skills:  
-- [x]  Discipline, time management  
-- [x]  Competent distribution of effort/goal setting  
-- [x]  The pursuit of self-learning  
-- [x]  Resolution of conflict, stressful situations  
+- Discipline, time management  
+- Competent distribution of effort/goal setting  
+- The pursuit of self-learning  
+- Resolution of conflict, stressful situations  
 
 - - -
   
@@ -62,22 +62,17 @@ Main responsibilities: Creating of one-page websites,
 small business websites, writing separate modules for several projects,
 working with existing code.
 
-+ <details><summary>Irrelevant experience</summary>
+<details><summary>Irrelevant experience</summary>
 
-<ul>
-<li>
-Director of Center of Architecture and Construction LLC  
+   - Director of Center of Architecture and Construction LLC.  
 Jule 2013 — to the present day.  
-Main responsibilities: Organization of the enterprise, management and recruitment, support up-to-date material and technical base, search and work with customers, monitoring the execution of works, maintaining financial activities of the enterprise.
-</li>
-<li>
-Engineer PTD  
+Main responsibilities: Organization of the enterprise, management and recruitment, support up-to-date material and technical base, search and work with customers, monitoring the execution of works, maintaining financial activities of the enterprise.  
+
+   - Engineer PTD.  
 June 2011 - June 2013.  
 Main responsibilities: Estimated work, pricing, quality control of work performed, preparation for
-participation in tenders, engineering support.
-</li>
-</ul>
- 
+participation in tenders, engineering support.  
+
 </details>
 
 - - -
@@ -89,6 +84,6 @@ participation in tenders, engineering support.
 + [RS-School](https://rs.school/) - JS+React, 2019Q1.  
 
 ### Languages:
-English — A1+  
-Russian — Native  
-Belorussian — Intermediate  
++ English — A1+  
++ Russian — Native  
++ Belorussian — Intermediate  
