@@ -1,4 +1,4 @@
-<img align="left" width="180" height="180" src="https://avatars.githubusercontent.com/u/35904041?v=4" alt="Yauhen Varapayeu">
+<img align="left" width="310" height="310" src="https://avatars.githubusercontent.com/u/35904041?v=4" alt="Yauhen Varapayeu">
 
 # Evgeniy Voropaev / Yauhen Varapaeu  
 Mogilev, Belarus
@@ -33,25 +33,25 @@ I think this is the main thing in my work.
 
 ## Skills:
 ### Hard skills:
-+ [x] HTML5/CSS3
-+ [x] JavaScript
-+ [x] Responsive design/mobile first
-+ [x] Progressive enhancement/Graceful degradation
-+ [x] BEM
-+ [x] Git with Github/Gitlab, Github Flow and Git Flow strategies
-+ [x] LESS (basic)
-+ [x] React with hooks
-+ [x] Redux
+[x]  HTML5/CSS3
+[x]  JavaScript
+[x]  Responsive design/mobile first
+[x]  Progressive enhancement/Graceful degradation
+[x]  BEM
+[x]  Git with Github/Gitlab, Github Flow and Git Flow strategies
+[x]  LESS (basic)
+[x]  React with hooks
+[x]  Redux
 ### Soft skills:  
-+ [x] Discipline, time management  
-+ [x] Competent distribution of effort/goal setting  
-+ [x] The pursuit of self-learning  
-+ [x] Resolution of conflict, stressful situations  
+[x]  Discipline, time management  
+[x]  Competent distribution of effort/goal setting  
+[x]  The pursuit of self-learning  
+[x]  Resolution of conflict, stressful situations  
 
 - - -
   
 ## Code examples:  
-:link: [awportfolio-site.netlify.app](https://awportfolio-site.netlify.app/)  
+[awportfolio-site.netlify.app](https://awportfolio-site.netlify.app/)  
 
 - - -
  
@@ -64,13 +64,14 @@ working with existing code.
 
 <details><summary>Irrelevant experience</summary>
 
-   1. Director of Center of Architecture and Construction LLC  
-   Jule 2013 — to the present day.  
-   Main responsibilities: Organization of the enterprise, management and recruitment, support up-to-date material and technical base, search and work with customers, monitoring the execution of works, maintaining financial activities of the enterprise.  
-   2. Engineer PTD  
-   June 2011 - June 2013.  
-   Main responsibilities: Estimated work, pricing, quality control of work performed, preparation for
-   participation in tenders, engineering support.  
+1. Director of Center of Architecture and Construction LLC  
+Jule 2013 — to the present day.  
+Main responsibilities: Organization of the enterprise, management and recruitment, support up-to-date material and technical base, search and work with customers, monitoring the execution of works, maintaining financial activities of the enterprise.  
+
+2. Engineer PTD  
+June 2011 - June 2013.  
+Main responsibilities: Estimated work, pricing, quality control of work performed, preparation for
+participation in tenders, engineering support.  
 </details>
 
 - - -
@@ -82,6 +83,6 @@ working with existing code.
 + [RS-School](https://rs.school/) - JS+React, 2019Q1.  
 
 ### Languages:
-:us: English — A1+  
-:ru: Russian — Native  
+English — A1+  
+Russian — Native  
 Belorussian — Intermediate  
