@@ -63,15 +63,16 @@ small business websites, writing separate modules for several projects,
 working with existing code.
 
 <details><summary>Irrelevant experience</summary>
-
-1. Director of Center of Architecture and Construction LLC  
+  
+- Director of Center of Architecture and Construction LLC  
 Jule 2013 — to the present day.  
 Main responsibilities: Organization of the enterprise, management and recruitment, support up-to-date material and technical base, search and work with customers, monitoring the execution of works, maintaining financial activities of the enterprise.  
 
-2. Engineer PTD  
+- Engineer PTD  
 June 2011 - June 2013.  
 Main responsibilities: Estimated work, pricing, quality control of work performed, preparation for
 participation in tenders, engineering support.  
+
 </details>
 
 - - -
