@@ -1,3 +1,5 @@
+<img align="left" width="180" height="180" src="https://avatars.githubusercontent.com/u/35904041?v=4" alt="Yauhen Varapayeu">
+
 # Evgeniy Voropaev / Yauhen Varapaeu  
 Mogilev, Belarus
 
@@ -31,56 +33,55 @@ I think this is the main thing in my work.
 
 ## Skills:
 ### Hard skills:
-+ HTML5/CSS3
-+ JavaScript
-+ jQuery (basic)
-+ Responsive design/mobile first
-+ Progressive enhancement/Graceful degradation
-+ BEM
-+ Git with Github/Gitlab, Github Flow and Git Flow strategies
-+ LESS (basic)
-+ React with hooks
-+ Redux
++ [x] HTML5/CSS3
++ [x] JavaScript
++ [x] Responsive design/mobile first
++ [x] Progressive enhancement/Graceful degradation
++ [x] BEM
++ [x] Git with Github/Gitlab, Github Flow and Git Flow strategies
++ [x] LESS (basic)
++ [x] React with hooks
++ [x] Redux
 ### Soft skills:  
-+ Discipline, time management  
-+ Competent distribution of effort/goal setting  
-+ The pursuit of self-learning  
-+ Resolution of conflict, stressful situations  
++ [x] Discipline, time management  
++ [x] Competent distribution of effort/goal setting  
++ [x] The pursuit of self-learning  
++ [x] Resolution of conflict, stressful situations  
 
 - - -
   
 ## Code examples:  
-[awportfolio-site.netlify.app](https://awportfolio-site.netlify.app/)  
+:link: [awportfolio-site.netlify.app](https://awportfolio-site.netlify.app/)  
 
 - - -
  
 ## Work experience:  
-+ Web-developer — freelance.
-September 2019 — to the present day.
++ Web-developer — freelance.  
+September 2019 — to the present day.  
 Main responsibilities: Creating of one-page websites,
 small business websites, writing separate modules for several projects,
 working with existing code.
 
 <details><summary>Irrelevant experience</summary>
 
-   + Director of Center of Architecture and Construction LLC
+   1. Director of Center of Architecture and Construction LLC  
    Jule 2013 — to the present day.  
    Main responsibilities: Organization of the enterprise, management and recruitment, support up-to-date material and technical base, search and work with customers, monitoring the execution of works, maintaining financial activities of the enterprise.  
-   + Engineer PTD
+   2. Engineer PTD  
    June 2011 - June 2013.  
    Main responsibilities: Estimated work, pricing, quality control of work performed, preparation for
-   participation in tenders, engineering support.
+   participation in tenders, engineering support.  
 </details>
 
 - - -
   
 ## Education:  
 + BRU, Mogilev, Belarus — incomplete higher. Faculty of Engineering Correspondence Education 
-"Automated control systems" 2013-2014.  
-+ [HTML Academy](https://htmlacademy.ru/profile/amidawolf) - full of HTML/CSS/JS, 2018.
-+ [RS-School](https://rs.school/)
+"Automated control systems", 2013-2014.  
++ [HTML Academy](https://htmlacademy.ru/profile/amidawolf) - full of HTML/CSS/JS, 2018.  
++ [RS-School](https://rs.school/) - JS+React, 2019Q1.  
 
-
-English — A1+  
-Russian — Native
-Belorussian — Intermediate
+### Languages:
+:us: English — A1+  
+:ru: Russian — Native  
+Belorussian — Intermediate  
