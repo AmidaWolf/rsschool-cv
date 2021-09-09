@@ -1,3 +1,6 @@
+|[Summary](#summary)|[Skills](#skills)|[Experience](#work-experience)|[Education](#education)|
+|---|---|---|---|
+
 <img align="left" width="310" height="310" src="https://avatars.githubusercontent.com/u/35904041?v=4" alt="Yauhen Varapayeu">
 
 # Evgeniy Voropaev / Yauhen Varapaeu  
@@ -67,7 +70,7 @@ working with existing code.
    - Director of Center of Architecture and Construction LLC.  
 Jule 2013 — to the present day.  
 Main responsibilities: Organization of the enterprise, management and recruitment, support up-to-date material and technical base, search and work with customers, monitoring the execution of works, maintaining financial activities of the enterprise.  
-
+<br>
    - Engineer PTD.  
 June 2011 - June 2013.  
 Main responsibilities: Estimated work, pricing, quality control of work performed, preparation for
