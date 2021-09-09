@@ -33,20 +33,20 @@ I think this is the main thing in my work.
 
 ## Skills:
 ### Hard skills:
-[x]  HTML5/CSS3
-[x]  JavaScript
-[x]  Responsive design/mobile first
-[x]  Progressive enhancement/Graceful degradation
-[x]  BEM
-[x]  Git with Github/Gitlab, Github Flow and Git Flow strategies
-[x]  LESS (basic)
-[x]  React with hooks
-[x]  Redux
+- [x]  HTML5/CSS3  
+- [x]  JavaScript  
+- [x]  Responsive design/mobile first  
+- [x]  Progressive enhancement/Graceful degradation  
+- [x]  BEM  
+- [x]  Git with Github/Gitlab, Github Flow and Git Flow strategies  
+- [x]  LESS (basic)  
+- [x]  React with hooks  
+- [x]  Redux  
 ### Soft skills:  
-[x]  Discipline, time management  
-[x]  Competent distribution of effort/goal setting  
-[x]  The pursuit of self-learning  
-[x]  Resolution of conflict, stressful situations  
+- [x]  Discipline, time management  
+- [x]  Competent distribution of effort/goal setting  
+- [x]  The pursuit of self-learning  
+- [x]  Resolution of conflict, stressful situations  
 
 - - -
   
