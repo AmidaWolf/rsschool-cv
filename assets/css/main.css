@@ -87,8 +87,10 @@ body {
 }
 
 .main-nav__button {
+  padding: 10px;
+
   flex-shrink: 0;
-  background: none;
+  background: #ef6326;
   outline: none;
   border: none;
   color: #ffffff;
@@ -445,7 +447,7 @@ body {
     top: 40px;
     left: 20px;
 
-    display: block;
+    display: flex;
   }
 
   .anchor {
