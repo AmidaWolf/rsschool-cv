@@ -31,10 +31,6 @@
   <!-- highlight code -->
   <link rel="stylesheet" href="assets/js/highlight/styles/default.min.css">
   <link rel="stylesheet" href="assets/js/highlight/styles/googlecode.min.css">
-  <script src="assets/js/highlight/highlight.min.js"></script>
-  <script>hljs.highlightAll();</script>
-
-  <script src="assets/js/menu.js"></script>
 </head>
 
 <body>
@@ -42,7 +38,7 @@
   <header class="header">
     <div class="wrapper header__wrapper">
       <nav class="main-nav">
-        <button class="main-nav__button" id="btnNav">
+        <button class="main-nav__button" id="btnNav" aria-label="open menu">
           <svg viewBox="0 0 100 80" width="40" height="40">
             <rect width="100" height="20"></rect>
             <rect y="30" width="100" height="20"></rect>
@@ -71,37 +67,52 @@
         <div class="main__text-wrapper">
           <h1 class="main__title">Yauhen Varapaeu</h1>
           <p class="main__text">Mogilev, Belarus</p>
-          <a
-                  class="main__email-link link"
-                  href="mailto:amidawolf@gmail.com"
-                  target="_blank"
-                  rel="noreferrer"
-          >
-            amidawolf@gmail.com
-          </a>
-          <a
-                  class="main__site-link link"
-                  href="https://awportfolio-site.netlify.app/"
-                  target="_blank"
-                  rel="noreferrer"
-          >
-            awportfolio-site.netlify.app
-          </a>
-          <a
-                  class="link"
-                  href="https://t.me/AmidaWolf"
-                  target="_blank"
-                  rel="noreferrer"
-          >
-            Telegram
-          </a>
-          <a
-                  class="link"
-                  href="https://github.com/AmidaWolf"
-                  target="_blank" rel="noreferrer"
-          >
-            GitHub
-          </a>
+          <ul class="contacts__list list">
+            <li class="list__item">
+              <a
+                    class="main__email-link link"
+                    href="mailto:amidawolf@gmail.com"
+                    target="_blank"
+                    rel="noreferrer"
+              >
+                amidawolf@gmail.com
+              </a>
+            </li>
+            <li class="list__item">
+              <a
+                      class="main__site-link link"
+                      href="https://awportfolio-site.netlify.app/"
+                      target="_blank"
+                      rel="noreferrer"
+              >
+                awportfolio-site.netlify.app
+              </a>
+            </li>
+            <li class="list__item">
+              <a
+                      class="link"
+                      href="https://t.me/AmidaWolf"
+                      target="_blank"
+                      rel="noreferrer"
+              >
+                Telegram
+              </a>
+            </li>
+            <li class="list__item">
+              <a
+                      class="link"
+                      href="https://github.com/AmidaWolf"
+                      target="_blank" rel="noreferrer"
+              >
+                GitHub
+              </a>
+            </li>
+          </ul>
+
+
+
+
+
         </div>
 
 
@@ -260,7 +271,11 @@ function createMessage(str) {
       </a>
     </div>
   </footer>
+  <!-- highlight code -->
+  <script src="assets/js/highlight/highlight.min.js"></script>
+  <script>hljs.highlightAll();</script>
 
+  <script src="assets/js/menu.js"></script>
 </body>
 
 </html>

@@ -99,16 +99,16 @@ body {
 }
 
 .menu-list {
-  display: flex;
-  width: 100%;
-  justify-content: center;
-
-  position: fixed; /* Set the navbar to fixed position */
+  position: fixed;
   top: 0;
   left: 0;
   z-index: 0;
 
+  display: flex;
+  width: 100%;
+  justify-content: center;
   padding: 42px 0;
+
   background-color: #ef6326;
 }
 
@@ -116,10 +116,6 @@ body {
   background-color: #ef6326;
   transform: translateX(0);
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
-}
-
-.menu-list__item {
-
 }
 
 .menu-list__item a{
@@ -155,8 +151,10 @@ body {
   position: fixed;
   top: 0;
   left: 0;
+
   width: 100vw;
   height: 100vh;
+
   background: rgba(0, 0, 0, 0.5);
   backdrop-filter: blur(2px);
   visibility: hidden;
@@ -173,7 +171,6 @@ body {
 /*content start*/
 .content {
   width: 100%;
-
   padding-top: 100px;
 
   background-color: #ef6326;
@@ -202,7 +199,6 @@ body {
 .main__photo {
   max-width: 100%;
   height: auto;
-
   margin-bottom: 20px;
 
   border-radius: 50%;
@@ -232,6 +228,29 @@ body {
   font-size: 0.9em;
   font-weight: 500;
 }
+
+.list {
+  padding-bottom: 10px;
+  padding-left: 20px;
+}
+
+.list__item {
+  margin-bottom: 5px;
+}
+
+.list__item::before {
+  content: "+";
+  padding-right: 10px;
+}
+
+.contacts__list {
+  padding-left: 0;
+}
+
+.contacts__list li::before {
+  content: "";
+  padding: 0;
+}
 /*.main end*/
 
 .link {
@@ -241,7 +260,6 @@ body {
   font-size: 0.9em;
   font-weight: 500;
   text-align: left;
-
   text-decoration: none;
 }
 
@@ -297,20 +315,6 @@ body {
 }
 /*.skills end*/
 
-.list {
-  padding-bottom: 10px;
-  padding-left: 20px;
-}
-
-.list__item {
-  margin-bottom: 5px;
-}
-
-.list__item::before {
-  content: "+";
-  padding-right: 10px;
-}
-
 /*.experience start*/
 .experience {
   background-color: #ef8a26;
@@ -326,6 +330,7 @@ body {
 
 .work-item__description {
   margin-bottom: 20px;
+
   line-height: 1.1;
 }
 /*.experience end*/
@@ -374,11 +379,6 @@ body {
 }
 /*footer end*/
 
-.language-javascript {
-  background-color: #ef8a26!important;
-  color: #ffffff!important;
-}
-
 /*media queries*/
 @media (max-width: 1199.98px) {
   body {
@@ -397,12 +397,11 @@ body {
   }
 
   .main {
-    width: auto;
-    padding: 60px 40px 20px;
-
     flex-direction: row;
     align-items: center;
     justify-content: center;
+    width: auto;
+    padding: 60px 40px 20px;
   }
 
   .main__photo-wrapper {
@@ -417,10 +416,11 @@ body {
 /*576-767.98*/
 @media (max-width: 767.98px) {
   .main-nav__button {
-    display: block;
     position: fixed;
     top: 40px;
     left: 20px;
+
+    display: block;
   }
 
   .anchor {
@@ -435,7 +435,6 @@ body {
     width: 250px;
     transform: translateX(-330px);
     transition: transform 0.3s;
-
     padding: 0;
   }
 
