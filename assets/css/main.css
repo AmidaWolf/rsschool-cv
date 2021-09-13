@@ -347,6 +347,31 @@ body {
 .education__link {
   margin-right: 20px;
 }
+
+.project-card {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  box-sizing: border-box;
+  margin-bottom: 40px;
+
+  border: 2px solid #ffffff;
+}
+
+.project-card__image img {
+  height: auto;
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+.project-card__content {
+  padding: 20px;
+  background-color: #ef8a26;
+}
+
+.project-card__content h3 {
+  margin-bottom: 30px;
+}
 /*.education end*/
 
 /*footer start*/
