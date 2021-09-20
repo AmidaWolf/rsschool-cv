@@ -470,7 +470,7 @@ body {
     flex-direction: column;
   }
 
-  pre code .hljs {
+  pre code.hljs {
     font-size: 16px;
   }
 }
