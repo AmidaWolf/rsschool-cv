@@ -469,6 +469,10 @@ body {
   .footer-wrapper {
     flex-direction: column;
   }
+
+  pre code .hljs {
+    font-size: 16px;
+  }
 }
 
 /*480-575.98*/
@@ -487,5 +491,9 @@ body {
 
   .section {
     padding: 60px 20px 20px;
+  }
+
+  .hljs-string {
+    display: block;
   }
 }
